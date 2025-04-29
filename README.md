@@ -1,5 +1,22 @@
 ## Backend for Shoppygobe E-commerce web application
 
+## 📦 Features
+
+- ✅ **User Registration & Login** with JWT Authentication
+- ✅ **Products API**
+  - GET all products
+  - GET product by ID
+- ✅ **Shopping Cart API**
+  - Add product to cart
+  - Update cart item quantity
+  - Delete product from cart
+  - View all cart items
+- ✅ **MongoDB Integration**
+- ✅ **Error Handling & Input Validation**
+- ✅ **Protected Routes** for cart operations
+
+---
+
 ## Project Setup Guide
 Follow these steps to set up and run the project locally.
 
